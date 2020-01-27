@@ -27,7 +27,7 @@ namespace DatingApp.API.Migrations
                     b.Property<byte[]>("PasswordSalt")
                         .HasColumnType("BLOB");
 
-                    b.Property<byte[]>("PasswrodHash")
+                    b.Property<byte[]>("PasswordHash")
                         .HasColumnType("BLOB");
 
                     b.Property<string>("Username")

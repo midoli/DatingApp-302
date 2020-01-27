@@ -122,3 +122,9 @@
 /Users/Gary/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.0/DatingApp.API.csproj.CopyComplete
 /Users/Gary/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.0/DatingApp.API.dll
 /Users/Gary/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.0/DatingApp.API.pdb
+/Users/GaryLee/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Data/UserSeedData.json
+/Users/GaryLee/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/GaryLee/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/GaryLee/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
+/Users/GaryLee/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.dll
+/Users/GaryLee/Dropbox/03-dotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
