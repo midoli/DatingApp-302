@@ -17,7 +17,7 @@
 
     <div *ngIf="loggedIn()" class="dropdown" dropdown>  <!-- 使用 NGX-Bootstrap Dropdowns -->
       <span class="mr-1">
-        <img src="{{photoUrl}}" alt="">
+        <img src="{{photoUrl || '../../../../assets/user.png'}}" alt="">
       </span>
       <a class="dropdown-toggle" font color="white" text-light dropdownToggle>
         歡迎使用者 {{authService.decodedToken?.unique_name | titlecase}}
